@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
+    --primary-color: #28e0f5;
     --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
-    --font-body: "Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
+    --text-color: #0f912b;
+    --background-color: #ffffff;
+    --button-hover: #14d855;
+    --font-body: "Roboto Slab", serif;
+    --font-titulo: "Anton", serif;
 }
 
 /* código omitido */
@@ -30,11 +30,11 @@ body {
 }
 
 h3 {
-    margin-top: 25px;
+    margin-top: 50px;
 }
 
 p {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 img {
