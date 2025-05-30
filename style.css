@@ -16,8 +16,8 @@
 
 /* Reset */
 * {
-    margin: 4;
-    padding: 2;
+    margin: 8;
+    padding: 4;
     box-sizing: border-box;
     font-family: var(--font-body);
 }
@@ -38,7 +38,7 @@ p {
 }
 
 img {
-    max-width: 90%;
+    max-width: 100%;
 }
 
 /* código omitido */
@@ -59,7 +59,7 @@ img {
     }
 
     nav ul li {
-        margin: 5px 0;
+        margin: 10px 0;
     }
 
     .cta-button {
